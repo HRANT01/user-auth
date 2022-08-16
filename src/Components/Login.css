@@ -1,0 +1,49 @@
+.formin{
+    text-align: right;
+    height: 60vh;
+    
+  }
+  h1{
+    color:purple;
+    text-align: center;
+  }
+  
+  input{
+    width: 250px;
+    height: 2em;
+    margin-bottom: 1em;
+    border-radius: 1em;
+    border: 5px solid purple
+  }
+  input:hover{
+    border-color: blueviolet;
+  }
+  
+  label{
+    margin-right: 1em;
+    font-size: 1  em;
+    margin-left: 0;
+    color: purple;
+  }
+  
+  .forgoten{
+    display: block;
+    text-decoration: none;
+    font-size: 1.3em;
+    margin-top: 1em;
+  }
+  .forgoten:hover{
+    color: blueviolet;
+  }
+  .btn{
+    width: 10em;
+    height: 2.5em;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+    color: aliceblue;
+    background-color: purple;
+  }
+  .btn:hover{
+    background-color: blueviolet;
+  }
